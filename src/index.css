@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+/* font-family: 'Lobster', cursive; */
+
+* {
+  box-sizing: border-box;
+  color: whitesmoke;
+  font-family: "Lobster", cursive;
+  font-size: 5vw;
+  margin: 0%;
+  text-align: center;
+  width: 100%;
+}
+
+#root {
+  align-items: center;
+  background-color: #982121;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-around;
+}
+
+.red {
+  background-color: #982121;
+}
